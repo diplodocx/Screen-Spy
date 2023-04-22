@@ -1,0 +1,6 @@
+.idea
+bot/screens
+.env
+bot/clientWebsocket/__pycache__
+bot/__pycache__
+serverWebsocket/buffer.png
